@@ -1,4 +1,4 @@
-service: phpmyadmin
+tservice: default
 runtime: php55
 api_version: 1
 
